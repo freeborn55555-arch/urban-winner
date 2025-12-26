@@ -1,0 +1,6 @@
+json{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/juan-ayala/devcontainer-features/aem-repo-tool:1": {}
+	}
+}
